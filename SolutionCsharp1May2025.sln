@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.14.36518.9 d17.14
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11222.15 d18.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleCodeAnalysis10May2025", "ConsoleCodeAnalysis10May2025\ConsoleCodeAnalysis10May2025.csproj", "{A6038BB5-E5AE-4278-9F76-482BBF74EFCE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryCodeAnalysis1May2025", "LibraryCodeAnalysis1May2025\LibraryCodeAnalysis1May2025.csproj", "{443D62F6-E6EA-4C1B-8DAA-31FF71C36F56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleCodeAnalysis11May2025", "ConsoleCodeAnalysis11May2025\ConsoleCodeAnalysis11May2025.csproj", "{CAAA59EF-ED5C-4008-B584-DC84388DD560}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{443D62F6-E6EA-4C1B-8DAA-31FF71C36F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{443D62F6-E6EA-4C1B-8DAA-31FF71C36F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{443D62F6-E6EA-4C1B-8DAA-31FF71C36F56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAAA59EF-ED5C-4008-B584-DC84388DD560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAAA59EF-ED5C-4008-B584-DC84388DD560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAAA59EF-ED5C-4008-B584-DC84388DD560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAAA59EF-ED5C-4008-B584-DC84388DD560}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
