@@ -79,6 +79,11 @@ User: Add a C# class that extracts text from all pages in C:\Users\Kris\test.pdf
 
              */
 
+            /*
+             
+             */
+
+
             // Mixtral-8x7B-Instruct-v0.1_Q5_K_M
             /*
              User: Write a C# class that opens the PDF located at C:\Users\Kris\test.pdf using PdfPig and reads basic metadata such as number of pages, PDF version, title, and producer. Expose this functionality through a method called ReadDocumentInformation.
