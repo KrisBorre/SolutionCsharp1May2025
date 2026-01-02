@@ -34,12 +34,12 @@ namespace LibraryCodeAnalysis1May2025
             }
         }
 
-        public async Task<string> PostCompletionAsync(string prompt)
+        public async Task<string> PostCompletionAsync(string prompt, double temperature = 0.8)
         {
             var payload = new
             {
                 prompt,
-                temperature = 0.8,
+                temperature,
                 stop = new[] { "</s>", "Assistant:", "User:" }
             };
 

@@ -131,6 +131,10 @@ namespace ConsoleCodeAnalysis12May2025
             Serialized JSON: {"Name":"John Doe","Age":30}
             */
 
+            /*
+            Serialized JSON: {"Name":"John Doe","Age":30}
+            */
+
             Console.ReadLine();
         }
     }
